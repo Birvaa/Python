@@ -1,0 +1,3 @@
+This is a demonstration of tell() and seek() methods.
+We will use seek to move the file pointer around.
+Python is awesome!
